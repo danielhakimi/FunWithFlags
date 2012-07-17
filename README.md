@@ -1,7 +1,7 @@
 FunWithFlags
 ============
 
-Simple game. Identify the flags
+Simple game. Identify the flags.
 
 Things to do
 ------------
